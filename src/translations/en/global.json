@@ -1,0 +1,37 @@
+{
+    "header":{
+        "logo": "Welcome",
+        "home": "Home",
+        "ourStor": "Our Store",
+        "blog": "Blog",
+        "contact": "Contact",
+        "login": "Login",
+        "cart": "Cart",
+        "signup": "Signup",
+        "wishlist": "Whishlist",
+        "search": "Search for products here",
+        "ETB": "ETB"
+    },
+    "banner" :{
+        "bannerHeader":" Explore the Latest Gadgets",
+        "bannerText": "Dive into the world of cutting-edge technology with our extensive collection of the latest gadgets From smartphones and laptops to smart home devices and wearable tech, discover innovative electronics to enhance your digital lifestyle"
+
+    },
+    "service":{
+        "title1":"Free shipping",
+        "tagline1":"Over 10000 ETB",
+
+        "title2":"Support 24/7",
+        "tagline2":"Shop With Expret",
+
+        "title3":"Affordable Prices",
+        "tagline3":"Factory Price",
+
+        "title4":"Secure Payment",
+        "tagline4":"Protected Payment"
+
+    },
+    "home" :{
+        "body": "it is for all"
+    }
+}

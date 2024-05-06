@@ -1,0 +1,43 @@
+{
+    "header":{
+        "logo": "Baga nagaan dhufte",
+        "home": "mana",
+        "ourStor": "suuqii keenya",
+        "blog": "biloogii irratti",
+        "contact": "quunnamuu",
+        "login": "seenuu",
+        "cart": "gaarii",
+        "signup": "galmaa’uu",
+        "wishlist": "tarree hawwii",
+        "search": "Oomishaalee asitti barbaadi",
+        "ETB": "birrii"
+
+        
+
+    },
+    "banner":{
+        "bannerHeader": "Gaazexoota Haaraa Qoradhu",
+        "bannerText": "Addunyaa teeknooloojii ammayyaa keessa cuuphamuu keenya gaajeeta haaraa bal’inaan walitti qabuu. Irraa bilbiloota ismaartii fi laptop hanga meeshaalee manaa ismaartii fi wearable tech, elektirooniksii kalaqaa argachuu gara jireenya dijitaalaa keessan guddisuu"
+
+
+    },
+    "service":{
+        "title1":"Ergaa Bilisaa",
+        "tagline1":"ETB 10000 ol ta'a",
+
+        "title2":"Deeggarsa 24/7",
+        "tagline2":"Expret Waliin Bittaa",
+
+        "title3":"Gatii Madaalawaa",
+        "tagline3":"Gatii Warshaa",
+
+        "title4":"Kaffaltii Wabii",
+        "tagline4":"Kaffaltii Eegumsa Qabu"
+
+  
+
+    },
+    "home" :{ 
+        "body": "hundaaf ta'a"
+    }
+}
